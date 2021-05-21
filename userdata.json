@@ -1,0 +1,84 @@
+{
+    "userdata": [
+        {
+            "id": "6ddb609b-c48c-4184-aae3-c0b8d11707b8",
+            "name": "Testmania Tester",
+            "sex": "male",
+            "age": "23",
+            "address": "Test 123, 00110 Testcity",
+            "email": "test@test.com"
+        },
+        {
+            "id": "8704188c-a633-4fe0-9c5b-6b4e647dd2b0",
+            "name": "Teppo Tulppu",
+            "sex": "male",
+            "age": "42",
+            "address": "Tulppukatu 1,31331 Ankkalinna",
+            "email": "teppo.tulppu@gmail.com"
+        },
+        {
+            "id": "8026ea25-d1b8-4c5f-aede-a85d526500c6",
+            "name": "Aku Ankka",
+            "sex": "male",
+            "age": "65",
+            "address": "Tulppukatu 2, 31331 Ankkalinna",
+            "email": "aku.ankka@gmail.com"
+        },
+        {
+            "id": "985f2250-82d6-468b-821f-2fa266e1b8b9",
+            "name": "Derp Dab Derpine",
+            "sex": "male",
+            "age": "42",
+            "address": "Derpstreet 23, 23423 Chigaco",
+            "email": "derp.business@gmail.com"
+        },
+        {
+            "id": "69c79982-7605-4d4a-80c8-be321e3345ad",
+            "name": "awjfoawof2 qe2 a+ve q2",
+            "sex": "male",
+            "age": "23",
+            "address": "wadwad awda wdawd awd",
+            "email": "adawd@awdawd.com"
+        },
+        {
+            "id": "a773ab29-273d-4150-b3ef-8a6e10e9707a",
+            "name": "awdw a awdaw",
+            "sex": "male",
+            "age": "23",
+            "address": "awda awd",
+            "email": "adwad@awda.com"
+        },
+        {
+            "id": "4e59812a-3564-4ecb-a315-d3e4ea345b48",
+            "name": "Password Generated with system",
+            "sex": "binary",
+            "age": "1",
+            "address": "python",
+            "email": "generated@password.com"
+        },
+        {
+            "id": "2508ea78-a4b5-4f9c-9ded-52ea536b228a",
+            "name": "Seppo Taalasmaa",
+            "sex": "Male",
+            "age": "85",
+            "address": "Salkkarikatu 15, 00110 Helsinki",
+            "email": "seppo.master@talkkari.fi"
+        },
+        {
+            "id": "a7afc176-e3c0-4678-ad68-2d79d9245094",
+            "name": "Shiba Doge",
+            "sex": "Alpha male",
+            "age": "69420",
+            "address": "Moon",
+            "email": "doge.coin@moon.com"
+        },
+        {
+            "id": "b46f2d89-f250-42eb-9789-d14e45ab7cfb",
+            "name": "Testman 9000",
+            "sex": "Female",
+            "age": "9000",
+            "address": "Testing street 90, Moon",
+            "email": "test@test.fi"
+        }
+    ]
+}
